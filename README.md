@@ -1,4 +1,4 @@
-<!-- Profile README — Eric KAMBIRÉ -->
+<!-- Profile README — Eric KAMBIRÉ  -->
 <!-- Astuces:
 1) Remplace le lien LinkedIn par le bon /in/<handle>
 2) Remplace paypal.me/<id> par ton identifiant PayPal.Me
