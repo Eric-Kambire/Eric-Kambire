@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Eric KAMBIRÉ 👋</h1>
 <p align="center">
-Engineering student • Data & AI • IoT • Design-minded developer
+Engineering student • Data & AI • System Designer
 </p>
 
 <p align="center">
