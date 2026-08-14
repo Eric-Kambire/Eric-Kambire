@@ -4,9 +4,17 @@
 2) Remplace paypal.me/<id> par ton identifiant PayPal.Me
 -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=150&section=header&text=Eric%20KAMBIR%C3%89&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
+
 <h1 align="center">Hi, I'm Eric KAMBIRÉ 👋</h1>
 <p align="center">
 Engineering student • Data & AI • System Designer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Bienvenue+sur+mon+profil+GitHub+%F0%9F%9A%80;Data+%26+AI+Builder;I+design+and+ship+useful+tech+projects" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -82,6 +90,11 @@ Engineering student • Data & AI • System Designer
        src="https://nirzak-streak-stats.vercel.app/?user=Eric-KAMBIRE&theme=dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img alt="Contribution Graph"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Eric-KAMBIRE&theme=github-dark&hide_border=true&area=true" />
+</p>
+
 ---
 
 ## ✍️ Random Dev Quote
@@ -95,3 +108,6 @@ Engineering student • Data & AI • System Designer
   <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge">
 </a>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=110&section=footer" alt="footer"/>
+</p>
